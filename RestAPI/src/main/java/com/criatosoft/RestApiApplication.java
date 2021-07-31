@@ -8,7 +8,8 @@ public class RestApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestApiApplication.class, args);
-		System.out.println("this is main method");
+		System.out.println("this is main method------Swapnil");
+		System.out.println("this is main method--- Vitthal");
 	}
 
 }
